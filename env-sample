@@ -1,0 +1,12 @@
+#**********************************************************
+# Terraform for SakuraIoT (author:yamamoto-febc)
+#**********************************************************
+# PLEASE RENAME THIS FILE TO ".env"
+# cp env-sample .env
+#**********************************************************
+
+# TOKEN
+#SAKURAIOT_AUTH_TOKEN=
+
+# SECRET
+#SAKURAIOT_AUTH_SECRET=

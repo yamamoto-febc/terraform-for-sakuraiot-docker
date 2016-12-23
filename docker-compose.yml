@@ -1,0 +1,5 @@
+terraform-for-sakuraiot:
+  image: yamamotofebc/terraform-for-sakuraiot
+  env_file: .env
+  volumes:
+    - $PWD:/work/
