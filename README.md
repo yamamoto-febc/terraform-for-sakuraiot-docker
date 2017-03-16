@@ -4,7 +4,7 @@
 
 ## `Dockerfile` links
 
-- [`0.0.1`,`latest`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-sakuraiot-docker/tree/master/0.0.1/)
+- [`0.1.0`,`latest`(Dockerfile)](https://github.com/yamamoto-febc/terraform-for-sakuraiot-docker/tree/master/0.1.0/)
 
 
 ## 使い方(docker-composeを使う場合)
